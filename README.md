@@ -1,3 +1,1 @@
-
-
-Requires the Maroon Seal UnityMaths package to work: https://github.com/MysteryGuy108/UnityMaths.git
+This is a repository template for creating a custom unity package that can be installed via the Unity Package Manager.
